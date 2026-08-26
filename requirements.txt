@@ -1,0 +1,5 @@
+# Python package dependencies for the application, pinned for reproducible builds.
+# See https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+fastapi==0.115.12
+uvicorn==0.34.3
